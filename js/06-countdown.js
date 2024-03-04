@@ -1,7 +1,7 @@
 // DECLARE VARIABLES
 let userNumber
 
-// ASK FOR A NUMBER
+// ASK THE USER FOR A NUMBER
 userNumber = parseInt(prompt('Enter a number'))
 
 // CHECK THAT THEY ENTERED A VALID NUMBER
